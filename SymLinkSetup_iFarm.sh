@@ -395,6 +395,6 @@ echo ""
 echo "Directories and sym links for hallc_replay_lt now setup"
 echo "Setting up hcana path too"
 # Set hcana with setup script
-exec "${GROUPPATH}/hcana/setup.csh"
+#exec "${GROUPPATH}/hcana/setup.csh"
 
 exit 0
